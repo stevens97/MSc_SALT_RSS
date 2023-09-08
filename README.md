@@ -2,7 +2,6 @@
 
 <img src="https://mcdonaldobservatory.org/sites/default/files/images/news/gallery/salt.startrails.jpg" width="50%" height="50%">
 Photo credit: https://mcdonaldobservatory.org/sites/default/files/images/news/gallery/salt.startrails.jpg
-========================================
 
 SALT RSS Documentation:
 ========================================
