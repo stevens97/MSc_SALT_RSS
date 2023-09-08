@@ -1,4 +1,4 @@
-# SALT RSS Extraction Code
+# SALT RSS Data Reduction Code
 
 <img src="https://mcdonaldobservatory.org/sites/default/files/images/news/gallery/salt.startrails.jpg" width="50%" height="50%">
 Photo credit: https://mcdonaldobservatory.org/sites/default/files/images/news/gallery/salt.startrails.jpg
@@ -6,7 +6,7 @@ Photo credit: https://mcdonaldobservatory.org/sites/default/files/images/news/ga
 
 Extract regions (outward from the object's centre) for a FITS file processed by the SALT RSS (Southern African Large Telescope Robert Stobie Spectrograph) pipeline.
 
-What this program does:
+SALT RSS Documentation:
 ========================================
 
 The SALT RSS data reduction procedure is well documented.
@@ -17,8 +17,14 @@ http://mips.as.arizona.edu/~khainline/salt_redux.html
 Also see the data reduction FAQ:
 https://astronomers.salt.ac.za/data/data-reduction-faq/
 
-This program takes a FITS image processed by the SALT-RSS pipeline and extracts regions from the image above a desired
-minimum signal-to-noise ratio.
+What this Program Does:
+========================================
+
+-
+-
+-
+-
+-
 
 Prerequisites for using this program:
 ========================================
