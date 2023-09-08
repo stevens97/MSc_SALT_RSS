@@ -1,5 +1,7 @@
 # SALT RSS Data Reduction Code
 
+Collection of Python scripts to calibrate and process data from the Southern African Large Telescope Robert Stobie Spectrograph (SALT RSS).
+
 <img src="https://mcdonaldobservatory.org/sites/default/files/images/news/gallery/salt.startrails.jpg" width="50%" height="50%">
 Photo credit: https://mcdonaldobservatory.org/sites/default/files/images/news/gallery/salt.startrails.jpg
 
@@ -14,14 +16,13 @@ http://mips.as.arizona.edu/~khainline/salt_redux.html
 Also see the data reduction FAQ:
 https://astronomers.salt.ac.za/data/data-reduction-faq/
 
-What this Program Does:
+Python Scripts Included:
 ========================================
 
--
--
--
--
--
+- Covolution.py: To convolve 2 images from the SALT RSS with each other.
+- Calibration.py: To calibrate data from the SALT RSS.
+- Sensitivity.py: For the generation of SALT RSS sensitivity files.
+- Extract_SNR.py: To extract spectra up to a specific signal-to-noise ratio.
 
 Prerequisites for using this program:
 ========================================
