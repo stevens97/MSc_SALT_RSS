@@ -2,10 +2,7 @@
 
 <img src="https://mcdonaldobservatory.org/sites/default/files/images/news/gallery/salt.startrails.jpg" width="50%" height="50%">
 Photo credit: https://mcdonaldobservatory.org/sites/default/files/images/news/gallery/salt.startrails.jpg
-
 ========================================
-
-Extract regions (outward from the object's centre) for a FITS file processed by the SALT RSS (Southern African Large Telescope Robert Stobie Spectrograph) pipeline.
 
 SALT RSS Documentation:
 ========================================
