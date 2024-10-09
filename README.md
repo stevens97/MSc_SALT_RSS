@@ -1,4 +1,4 @@
-# SALT RSS Data Processing Code
+# SALT RSS Data Pipeline
 
 Collection of Python scripts to calibrate and process data from the Southern African Large Telescope Robert Stobie Spectrograph (SALT RSS).
 
