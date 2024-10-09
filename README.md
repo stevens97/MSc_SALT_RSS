@@ -29,7 +29,7 @@ Prerequisites for using this program:
 
 This program requires a programming environment with Python 3.6 installed.
 With the following external libraries:
-- PyRAF, 
+- PyRAF
 - Astropy
 - pathlib
 - see: https://faculty1.coloradocollege.edu/~sburns/courses/18-19/pc362/Anaconda_IRAF_install.html for installation instructions.
